@@ -80,9 +80,15 @@
       "temp",
       "tmin",
       "tmax",
-      "prcp",
+      "rhum",
       "pres",
-      "tsun"
+      "wspd",
+      "wdir",
+      "prcp",
+      "snow",
+      "snwd",
+      "tsun",
+      "cldc"
     ]
   },
   {
@@ -163,7 +169,15 @@
       "temp",
       "tmin",
       "tmax",
-      "prcp"
+      "rhum",
+      "pres",
+      "wspd",
+      "wdir",
+      "prcp",
+      "snow",
+      "snwd",
+      "tsun",
+      "cldc"
     ]
   },
   {
@@ -246,6 +260,7 @@
       "temp",
       "tmin",
       "tmax",
+      "rhum",
       "txmn",
       "txmx",
       "pres",
