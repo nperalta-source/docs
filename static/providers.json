@@ -61,9 +61,15 @@
       "temp",
       "tmin",
       "tmax",
-      "prcp",
+      "rhum",
       "pres",
-      "tsun"
+      "wspd",
+      "wdir",
+      "prcp",
+      "snow",
+      "snwd",
+      "tsun",
+      "cldc"
     ]
   },
   {
